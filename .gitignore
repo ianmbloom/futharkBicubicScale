@@ -1,0 +1,12 @@
+dist/
+dist-newstyle/
+outputs/
+outputs_saved/
+.DS_Store
+*.swp
+.stack-work
+/stack.yaml.lock
+/output
+build
+.ghc*
+cabal.project.local
