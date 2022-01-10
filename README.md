@@ -1,5 +1,5 @@
-# futharkShuffle
-Futhark 2d Shuffle Example
+# futharkBicubicScale
+Futhark Example Program for image scaling.
 
 To run type:
 
